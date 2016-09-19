@@ -1,0 +1,19 @@
+{
+  "name": "bunneaze",
+  "version": "1.0.2",
+  "description": "a customizable genetic algorithm module that works with and without sample replacement",
+  "main": "bunneaze.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidIValencia/bunnEaze.git"
+  },
+  "author": "David Valencia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidIValencia/bunnEaze/issues"
+  },
+  "homepage": "https://github.com/DavidIValencia/bunnEaze#readme"
+}
